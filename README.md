@@ -1,5 +1,5 @@
 ### Description
-Welcome to the "Stock Data Analysis" project by Modesta Uzo. The datasets include Date, Open, High, Low, Close, Adj_Close, and Volume.
+Welcome to the "Stock Data Analysis" project by Modesta Uzo. The columns include Date, Open, High, Low, Close, Adj_Close, and Volume.
 
 This project is your portal to the world of stock data analysis, carefully curated to provide you with insights into the performance of tech industry giants: Google, Apple, and Amazon. Whether you're an investor seeking informed decisions or a data enthusiast exploring market dynamics, this repository offers a treasure trove of financial analysis.
 
